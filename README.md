@@ -1,6 +1,6 @@
 # 42Piscine
 
-This repo is about the piscine in 42 Paris from 26/01 to 26/02. As requested by some friends, I upload subjects and solutions of all modules.
+This repo is about the piscine in 42 Paris from 26/01 to 20/02. As requested by some friends, I upload subjects and solutions of all modules.
 
 ## Before Start
 
